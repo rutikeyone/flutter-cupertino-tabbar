@@ -96,12 +96,3 @@ int cupertinoTabBarValueGetter() => cupertinoTabBarValue;
 
 
 [comment]: <> (Notes)
-## Notes
-Any help, suggestion or criticism is appreciated! 
-
-Cheers.
-
-[comment]: <> (CosmosSoftware)
-<br><br>
-<img align="right" src="https://www.cosmossoftware.coffee/Common/Images/CosmosSoftwareIconTransparent.png" width="150" height="150"/>
-<br><br>
