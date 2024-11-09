@@ -36,12 +36,11 @@ A highly customisable and simple widget for having iOS 13 style tab bars.
 ## Media
 
 Watch on **Youtube**:
-
+<br>
 [**v1.1.0**](https://youtu.be/rK_FhhJI0Og)
 <br>
 [v1.0.0](https://youtu.be/UELwqzHGFOE)
 <img src="https://www.cosmossoftware.coffee/Common/Portfolio/GIFs/FlutterCupertinoTabBarNew.gif" height="450" max-height="450"/>
-<br>
 
 [comment]: <> (Description)
 <a name="description"></a>
